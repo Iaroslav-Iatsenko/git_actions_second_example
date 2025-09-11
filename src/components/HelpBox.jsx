@@ -5,7 +5,7 @@ function HelpBox({ title, text }) {
     <article className="help-box">
       <h3>{title}</h3>
       <p>{text}</p>
-      <p>"some additional text"</p>
+      <p>"some additional text added"</p>
       <h5>"life it live"</h5>
     </article>
   );
